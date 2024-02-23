@@ -17,7 +17,7 @@ The design files can be found in the `design` folder. The forklift consists of s
 ## Video Demonstration
 A video demonstration of the forklift simulation is available below:
 
-[![Forklift Video Demonstration](/media/video_.mp4)]
+[![Forklift Video Demonstration](/media/video_.gif)]
 
 ## Installation Instructions
 To view and edit the design files, you need to have Fusion 360 installed on your computer. You can download Fusion 360 from [Autodesk's official website](https://www.autodesk.com/products/fusion-360/overview).

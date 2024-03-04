@@ -40,7 +40,7 @@ Given that the sum of forces and torques are equal to zero, we can derive the fo
 
 ![Equations 1](/media/eq1.png)
 
-As *F<sub>Bx</sub> = 0*, then *F<sub>RLx</sub> = F<sub>RRx</sub>} = F<sub>Rx</sub>*. By coulomb friction model we know that *F<sub>RLy</sub> = μ F<sub>RLx</sub> = μ F<sub>Rx</sub>* and the same happens for *F<sub>RRy</sub> = μ F<sub>Rx</sub>*. Combining this information with the equations above we get the following expression:
+As *F<sub>Bx</sub> = 0*, then *F<sub>RLx</sub> = F<sub>RRx</sub> = F<sub>Rx</sub>*. By coulomb friction model we know that *F<sub>RLy</sub> = μ F<sub>RLx</sub> = μ F<sub>Rx</sub>* and the same happens for *F<sub>RRy</sub> = μ F<sub>Rx</sub>*. Combining this information with the equations above we get the following expression:
 
 ![Equations 2](/media/eq2.png)
 
